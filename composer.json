@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Fontis_EwayUk",
+    "name": "OpenMageModuleFostering\/Fontis_EwayUk",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL-3.0)",
     "homepage": "",
     "description": "Adds support for eWAY UK payment gateway.",
     "authors": [
-    {
-        "name": "Fontis",
-        "email": "magento@fontis.com.au"
-    }
-],
+        {
+            "name": "Fontis",
+            "email": "magento@fontis.com.au"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
